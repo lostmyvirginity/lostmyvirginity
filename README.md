@@ -2,7 +2,7 @@
 - 👀 I’m interested in Java, Python, Cybersec. Generally programming.
 - 🌱 I’m currently learning Java 
 - 💞️ I’m looking to collaborate on some kind of project like cheats or bots
-- 📫 How to reach me try to write to me :P
+- 📫 How to reach me try? Try to write to me 🤙
 
 <!---
 lostmyvirginity/lostmyvirginity is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
